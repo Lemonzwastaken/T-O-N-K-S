@@ -2,6 +2,8 @@
 
 A top-down, keyboard-only tank shooter built in Unreal Engine 5.
 
+Time Spent on project: ![hackatime](https://hackatime.hackclub.com/api/v1/badge/U092BLMKNQN/Lemonzwastaken/T-O-N-K-S)
+
 ## Overview
 
 - **Engine:** Unreal Engine 5
