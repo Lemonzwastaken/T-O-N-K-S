@@ -46,6 +46,12 @@ Feel free to check it out
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+## AI Usage
+
+I used AI for debugging and fixing errors, as well as cleaning up the code
+
+I also used AI to implement the camera tracking with head movement feature.
+
 ---
 
 Developed by Aaradhy.
